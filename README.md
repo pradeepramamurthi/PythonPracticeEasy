@@ -1,0 +1,1 @@
+Problems classified as [Easy] from dailycodingproblem.com
