@@ -16,9 +16,8 @@ def checkAddup(inputList, k):
     return False
 
 
-testList = checkAddup([10, 15, 20, 10, 1, 7], 27)
-print(testList)
-
 if __name__ == "__main__":
+    testList = checkAddup([10, 15, 20, 10, 1, 7], 27)
+    print(testList)
     import doctest
     doctest.testmod()
