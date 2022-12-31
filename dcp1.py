@@ -5,6 +5,7 @@ For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 True
 """
 
+#Time Complexity O(n)
 
 def checkAddup(inputList, k):
     for x in inputList:
